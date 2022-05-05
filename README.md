@@ -20,7 +20,7 @@ It has two input parameters, these are:
 
     *typeDocument: type of document that is a numerical data 1 (cedula), 2 (passport).  
  
-* Repository: [https://github.com/steven2012/taxislibres.svc.git](https://github.com/steven2012/taxislibres.svc.git)  
+* Repository: [https://github.com/steven2012/nttdata.svc](https://github.com/steven2012/nttdata.svc)  
 * Swagger: [http://localhost:8090/government/v1/swagger-ui.html#/](http://localhost:8090/government/v1/swagger-ui.html#/)
   
 
