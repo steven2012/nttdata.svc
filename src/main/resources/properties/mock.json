@@ -1,0 +1,18 @@
+[
+    {
+        "firtsName":"Nttdata",
+        "secondName":"Robert",
+        "lastName":"Software",
+        "secondLastName":"Success",
+        "typeDocument":1,
+        "idDocument":"23445322"
+    },
+    {
+        "firtsName":"Maicol",
+        "secondName":"Giren",
+        "lastName":"kakaroto",
+        "secondLastName":"Meca",
+        "typeDocument":2,
+        "idDocument":"23445326"
+    }
+]
