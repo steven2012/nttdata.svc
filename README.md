@@ -1,7 +1,7 @@
 # Getting Started
 
 ### Reference Documentation
-For further reference, please consider the following sections:
+For further reference, please consider the following sections Spring boot:
 
 * [Official Maven documentation](https://maven.apache.org/guides/index.html)
 * [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.4.3/gradle-plugin/reference/html/#build-image)  
